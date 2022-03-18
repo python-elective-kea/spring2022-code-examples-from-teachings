@@ -10,11 +10,11 @@ class Person:
         elif len(args) > 1:
             self.name = args[0]
             self.age = args[1]
+         
+        self.type = 'Frog'
 
+        self.msg = msg
 
-
-        print(args)
-        print(kwargs)
 
 
     def msg(self, foo = None):
