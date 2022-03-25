@@ -52,7 +52,7 @@ class Board:
 
     def __init__(self):
         # create a bird at some postion
-        self.bird = Bird([4, 5],1)
+        self.bird = Bird([2, 2],1)
         self.c = Bird.__dict__
         # create a pig at some position
         self.pig = Pig([2,5])
