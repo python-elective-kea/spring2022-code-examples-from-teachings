@@ -15,6 +15,13 @@ class P:
 class Account:
 
     def __init__(self, x):
-        self.x = x
+        #self.set_x(x)
+        self.__x = x
+
+    def set_x(self, x):
+        self.__x = x
+
+    def get_x(self):
+        return self.__x
 
 
