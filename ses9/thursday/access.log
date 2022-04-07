@@ -1,0 +1,10 @@
+2022-04-07 12:45:16.431646 
+2022-04-07 12:47:13.764988 
+2022-04-07 12:47:13.768839 
+2022-04-07 12:47:30.130678 
+2022-04-07 12:48:32.074183 
+2022-04-07 12:49:51.506644 (1, 2, 3)    
+Timestamp: 2022-04-07 12:51:04.579022, args: (1, 2, 3), result:6   
+Timestamp: 2022-04-07 12:52:44.834386, args: ('Hello ajkdshkjdsah',), result:Hello ajkdshkjdsah   
+Timestamp: 2022-04-07 12:53:56.253319, args: ('Hello ajkdshkjdsah',), result:Hello ajkdshkjdsah   
+Timestamp: 2022-04-07 12:53:58.663836, args: ('Hello ajkdshkjdsah',), result:Hello ajkdshkjdsah   
