@@ -1,20 +1,22 @@
 ###############################################
-f = open('testfiles/bohr.txt', 'r')
-print(f.readline())
-f.close()
+#f = open('testfiles/bohr.txt', 'r')
+#print(f.readline())
+#f.close()
 
 
 ###############################################
-with open('testfiles/bohr.txt', 'r') as f:
-    print(f.readline())
+#with open('testfiles/bohr.txt', 'r') as f:
+#    print(f.readline())
+
+
 
 ################################################
 
-try:
-    f = open('testfiles/bohr.txt', 'r')
-    print(f.readline())
-finally:
-    f.close()
+#try:
+#    f = open('testfiles/bohr.txt', 'r')
+#    print(f.readline())
+#finally:
+#    f.close()
 
 ###############################################
 
