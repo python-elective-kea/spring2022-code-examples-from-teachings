@@ -1,3 +1,5 @@
+
+
 def msg(x):
     return f'Hello {x}'
 
@@ -6,3 +8,16 @@ def info():
 
 
 
+
+
+class Test:
+    
+    def testmethod(self):
+        pass
+
+
+
+class Test2:
+
+    def test2method(sewlf):
+        pass

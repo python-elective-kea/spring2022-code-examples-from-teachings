@@ -1,9 +1,7 @@
-from foo import msg
+from bs4 import BeautifulSoup
 
 
-#x = foo.msg('Claus')
-#y = foo.info()
 
-x = msg('Claus')
 
-print(x)
+
+
